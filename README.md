@@ -1,2 +1,2 @@
-# PhysicsHomeworks
+# PhysicsHomework
 My basic physics homework.
